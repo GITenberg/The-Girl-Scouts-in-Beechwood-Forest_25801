@@ -1,0 +1,29 @@
+_repo: The-Girl-Scouts-in-Beechwood-Forest_25801
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2008-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25801'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Girl Scouts -- Juvenile fiction'
+title: The Girl Scouts in Beechwood Forest
+url: http://www.gutenberg.org/ebooks/25801
